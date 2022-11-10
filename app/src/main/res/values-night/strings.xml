@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="valetNombre">Ingresar nombre</string>
+    <string name="valetApellido">Ingresar apellido</string>
+    <string name="velSelectGenero">Seleccionar genero</string>
+    <string name="valGenFemenino">Femenino</string>
+    <string name="valSeleccionarPreferencia">Seleccionar preferencia</string>
+</resources>

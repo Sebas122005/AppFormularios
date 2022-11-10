@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppFormularios</string>
+    <string name="valTitulo">REGISTRO DE PERSONAS</string>
+    <string name="valetNombre">Ingresar nombre</string>
+    <string name="valetApellido">Ingresar apellido</string>
+    <string name="velSelectGenero">Seleccionar genero</string>
+    <string name="valGenMasculino">Masculino</string>
+    <string name="valGenFemenino">Femenino</string>
+    <string name="valSeleccionarPreferencia">Seleccionar preferencia</string>
+    <string name="valDeporte">Deporte</string>
+    <string name="valDibujo">Dibujo</string>
+    <string name="valOtPreferencias">Otras Preferencias</string>
+    <string name="valNotificarEmail">Notificar por Email?</string>
+    <string name="valGuardarData">Guardar Datos</string>
+    <string name="valListar">Ver Lista de Registros</string>
+</resources>
